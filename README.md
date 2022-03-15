@@ -7,7 +7,6 @@
     <img src="./assets/HTML-logo.png" alt="html" width="40" height="40"/> 
     <img src="./assets/css-logo.png" alt="css" width="30" height="40"/> 
     <img src="./assets/js-logo.png" alt="js" width="40" height="40"/> 
-    <img src="./assets/bootstrap-logo.png" alt="bootstrap" width="40" height="40"/> 
     <img src="./assets/react-logo.png" alt="react" width="40" height="40"/> 
     <img src="./assets/redux-logo.png" alt="redux" width="40" height="40"/> 
 </p>
