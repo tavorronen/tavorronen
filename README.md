@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! <img src="./assets/Hi.gif" width="30px">, I'm Ronen Badalov</h1>
+<h1 align="center">Hi there! <img src="./assets/Hi.gif" style="width:30px;">, I'm Ronen Badalov</h1>
 
 <h3 align="center">Frontend Developer</h3>
 
