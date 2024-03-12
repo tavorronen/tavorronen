@@ -2,15 +2,6 @@
 
 <h3 align="center">Frontend Developer</h3>
 
-<h3 align="center">Technologies I Use</h3>
-<p align="center"> 
-    <img src="./assets/HTML-logo.png" alt="html" width="40" height="40"/> 
-    <img src="./assets/css-logo.png" alt="css" width="30" height="40"/> 
-    <img src="./assets/js-logo.png" alt="js" width="40" height="40"/> 
-    <img src="./assets/react-logo.png" alt="react" width="40" height="40"/> 
-    <img src="./assets/redux-logo.png" alt="redux" width="40" height="40"/> 
-</p>
-
 <h3 align="center">Contact me on</h3>
 <p align="center"> 
     <a href="https://www.linkedin.com/in/ronenbadalov/">
