@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/tavorronen/">
         <img src="./assets/linkedin-logo.png" alt="linkedin" width="45" height="40"/> 
     </a>
-    <a href="mailto:ronenbadalov1@gmail.com">
+    <a href="mailto:tavorronen@gmail.com">
         <img src="./assets/mail.png" alt="linkedin" width="50" height="40"/> 
     </a>
 </p>
