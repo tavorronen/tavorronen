@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! <img src="./assets/Hi.gif" style="width:30px;">, I'm Ronen Tavor</h1>
 
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <h3 align="center">Contact me on</h3>
 <p align="center"> 
